@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
 </head>
 <body>
 <Font Color= "blue" Face= "Tinos Now Roman Cyr Size="7">
